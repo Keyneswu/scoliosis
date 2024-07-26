@@ -3,6 +3,8 @@
 
 run these commands for the project
 
+git clone __ the url of the porject
+
 conda create -n scoliosis
 
 conda activate -n scoliosis
